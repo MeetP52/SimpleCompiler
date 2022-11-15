@@ -1,6 +1,6 @@
 # Simple Compiler
 
-This is a work in progress simple compiler that I am writing to better understand different programming languages, gain experience with the c++ programming langugage, and to learn how to work with and develope interconnected systems. This project makes use of a custom syntax that I choose to implement, originally based off of the C programming language, while looking to add few elements of javascript as well. 
+This is a work in progress simple compiler that I am writing to better understand different programming languages, gain experience with the C++ programming language, and to learn how to work with and develop interconnected systems. This project makes use of a custom syntax that I choose to implement, originally based off of the C programming language, while looking to add few elements of javascript as well. 
 
 This is the current iteration of the syntax that the final version of the compilers will implement:
 
