@@ -92,7 +92,6 @@ namespace Compiler {
 	class Tokenizer {
 		public:
 			vector<Token> CreateToken(const string& inpuit);
-      		vector<string> CreateTypeList();
 		private:
 			void EndToken(Token &token, vector<Token> &tokens);
 	};
