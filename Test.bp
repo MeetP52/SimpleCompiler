@@ -1,0 +1,65 @@
+var = "";
+var = func();
+func()  = : {};
+struct : var;
+struct : = {};
+
+Node : Node = {
+
+}
+
+Node : a;
+
+
+number : age = 22;
+
+
+num = sum(num1,num2);
+
+number = sum(number: num1, number: num2) {
+        return num1 + num2;
+}
+
+================================================
+================================================
+Main = {
+    Node<> : var = {
+        int value;
+
+        Node = Node(number: val) {value = val;}
+        ~Node(Node: node) {delete(node);}
+    }
+
+    main() {
+        age = 22;
+        gender = 'M';
+        Node<> : a;
+        
+        print(sum(1,a.value));
+    }
+
+    number = sum(number: num1, number: num2) {
+        return num1 + num2;
+    }
+
+    type = func_name(type: var, type: var) {
+        return var + var;
+    }
+}
+
+================================================
+================================================
+
+@Node : Node = {
+    number : _1;
+
+}
+
+main() = {
+    _age = 22;
+    @Node : _num1;
+    _num1._1 = 35;
+
+    _result = sum(_num1._1,_num1._1);
+
+}
